@@ -1,0 +1,1 @@
+docker swarm join --token $TOKEN 172.16.0.200
